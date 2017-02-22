@@ -12,7 +12,8 @@
         "splitter",
         "mermaid-full",
         "tbfed-pagefooter",
-        "sectionx"
+        "sectionx",
+        "-sharing"
     ],
     "pluginsConfig": {
         "disqus": {
