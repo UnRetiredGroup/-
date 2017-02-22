@@ -1,0 +1,43 @@
+{
+    "plugins": [
+        "disqus",
+        "multipart",
+        "toggle-chapters",
+        "edit-link",
+        "algolia",
+        "mathjax",
+        "ga",
+        "sitemap2",
+        "rss",
+        "etoc",
+        "tags",
+        "advanced-emoji",
+        "emphasize",
+        "splitter",
+        "mermaid-full",
+        "tbfed-pagefooter",
+        "sectionx"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "writingguideline",
+            "useIdentifier": true
+        },
+        "advanced-emoji": {
+            "embedEmojis": true
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": true,
+            "instapaper": true,
+            "vk": true,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "edit-link": {
+            "base": "https://github.com/UnRetiredGroup/Writing-Guideline-/tree/master",
+            "label": "Edit This Page"
+        }
+    }
+}
