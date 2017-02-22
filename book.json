@@ -25,10 +25,10 @@
         "sharing": {
             "facebook": true,
             "twitter": true,
-            "google": true,
+            "google": false,
             "weibo": true,
-            "instapaper": true,
-            "vk": true,
+            "instapaper": false,
+            "vk": false,
             "all": "facebook,google,twitter,weibo,instapaper"
         },
         "edit-link": {
